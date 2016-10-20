@@ -45,6 +45,65 @@ npm run dev
 npm run build
 ```
 
+### Links
+
+#### Things in the presentation
+
+State of Javascript
+
+* [http://stateofjs.com](http://stateofjs.com)
+
+ Webpack
+
+* [http://webpack.github.io](http://webpack.github.io)
+* [http://webpack.github.io/docs/list-of-plugins.html](http://webpack.github.io/docs/list-of-plugins.html)
+* [http://webpack.github.io/docs/list-of-loaders.html](http://webpack.github.io/docs/list-of-loaders.html)
+
+
+Webpack Dev Server
+
+* [https://webpack.github.io/docs/webpack-dev-server.html](https://webpack.github.io/docs/webpack-dev-server.html)
+
+
+Plugins
+
+* Extract Text
+	* [https://github.com/webpack/extract-text-webpack-plugin](https://github.com/webpack/extract-text-webpack-plugin)
+* HTML Webpack 
+	* [https://github.com/ampedandwired/html-webpack-plugin](https://github.com/ampedandwired/html-webpack-plugin)
+* UglifyJS
+	* [https://webpack.github.io/docs/list-of-plugins.html](https://webpack.github.io/docs/list-of-plugins.html)
+	* [https://github.com/mishoo/UglifyJS](https://github.com/mishoo/UglifyJS)
+* Define
+	* [https://webpack.github.io/docs/list-of-plugins.html](https://webpack.github.io/docs/list-of-plugins.html)
+
+Loaders
+
+* babel-loader
+	* [https://github.com/babel/babel-loader](https://github.com/babel/babel-loader)
+* url-loader
+	* [https://github.com/webpack/url-loader](https://github.com/webpack/url-loader)
+* file-loader
+	* [https://github.com/webpack/file-loader](https://github.com/webpack/file-loader)
+* style-loader
+	* [https://github.com/webpack/style-loader](https://github.com/webpack/style-loader)
+* css-loader
+	* [https://github.com/webpack/css-loader](https://github.com/webpack/css-loader)
+
+#### More things to read
+
+* Difference Webpack and Webpack 2
+	* [https://gist.github.com/sokra/27b24881210b56bbaff7](https://gist.github.com/sokra/27b24881210b56bbaff7)
+* Code Splitting and React
+	* [https://medium.com/modus-create-front-end-development/automatic-code-splitting-for-react-router-w-es6-imports-a0abdaa491e9 ](https://medium.com/modus-create-front-end-development/automatic-code-splitting-for-react-router-w-es6-imports-a0abdaa491e9 )
+* Full tutorial on HMR 	
+	* [http://andrewhfarmer.com/webpack-hmr-tutorial/](http://andrewhfarmer.com/webpack-hmr-tutorial/)
+* More about MHR
+	* [https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07#.m17ffe4km ](https://medium.com/@rajaraodv/webpack-hot-module-replacement-hmr-e756a726a07#.m17ffe4km )
+* Webpack Video Course (pay)
+	* [https://egghead.io/courses/using-webpack-for-production-javascript-applications ](https://egghead.io/courses/using-webpack-for-production-javascript-applications )
+
+
 ### Contact
 
 Feel free to contact me:
