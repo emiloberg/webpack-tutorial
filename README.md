@@ -26,11 +26,6 @@ Tutorial explains:
 * The tutorial on YouTube: [Part 1 (presentation)](https://www.youtube.com/watch?v=C_ZtQClrVYw) and [part 2 (code-along)](https://www.youtube.com/watch?v=eWmkBNBTbMM)
 * The [slides can be found at SlideShare](http://www.slideshare.net/emiloberg/webpack-tutorial-uppsala-js).
 
-
-
-There will also be a video recording of the event. Link will be posted here as soon as possible.
-
-
 ### Installation
 
 #### 1. Install
