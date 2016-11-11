@@ -19,9 +19,14 @@ Tutorial explains:
 * How to load style (css)
 * ...and more
 
-[![](http://image.slidesharecdn.com/uppsalajs-webpack-161020152946/95/webpack-tutorial-uppsala-js-1-638.jpg)](http://www.slideshare.net/emiloberg/webpack-tutorial-uppsala-js)
+### Video and Slides
 
-The [presentation can be found at SlideShare](http://www.slideshare.net/emiloberg/webpack-tutorial-uppsala-js).
+[![YouTube Screenshot](https://raw.githubusercontent.com/emiloberg/webpack-tutorial/master/docs/youtube-screenshot.png)](https://www.youtube.com/watch?v=eWmkBNBTbMM)
+
+* The tutorial on YouTube: [Part 1 (presentation)](https://www.youtube.com/watch?v=C_ZtQClrVYw) and [part 2 (code-along)](https://www.youtube.com/watch?v=eWmkBNBTbMM)
+* The [slides can be found at SlideShare](http://www.slideshare.net/emiloberg/webpack-tutorial-uppsala-js).
+
+
 
 There will also be a video recording of the event. Link will be posted here as soon as possible.
 
